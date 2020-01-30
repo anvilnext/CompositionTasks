@@ -1,0 +1,11 @@
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.exe
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.deps.json
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.runtimeconfig.json
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.runtimeconfig.dev.json
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.dll
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\bin\Debug\netcoreapp3.1\CompositionTasks.pdb
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\obj\Debug\netcoreapp3.1\CompositionTasks.csprojAssemblyReference.cache
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\obj\Debug\netcoreapp3.1\CompositionTasks.AssemblyInfoInputs.cache
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\obj\Debug\netcoreapp3.1\CompositionTasks.AssemblyInfo.cs
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\obj\Debug\netcoreapp3.1\CompositionTasks.dll
+C:\Users\Oleksii_Cherevatenko\source\repos\CompositionTasks\CompositionTasks\obj\Debug\netcoreapp3.1\CompositionTasks.pdb

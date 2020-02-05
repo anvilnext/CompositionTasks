@@ -13,6 +13,11 @@ namespace CompositionTasks.Task1
             LibraryCollection.Add(B);
         }
 
+        public void RemoveBook(Book B)
+        {
+            LibraryCollection.Remove(B);
+        }
+
         public int GetNum()
         {
             return LibraryCollection.Count;
